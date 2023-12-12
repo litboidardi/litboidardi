@@ -19,7 +19,7 @@
 
 <img height="40" alt="phpstorm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png">  <img height="40" alt="intellij" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png">  <img height="40" alt="pycharm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png">  <img height="40" alt="clion" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/2500px-Clion.svg.png">  <img height="40" alt="vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
 <a href="https://github.com/litboidardi/litboidardi">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litboidardi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litboidardi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&border_color=21262d"/>
 </a>
 
 
