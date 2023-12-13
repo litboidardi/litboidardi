@@ -15,7 +15,7 @@
 - 🌐 In the future my goal is to dove deep into the sea of cyber security
 
 
-## Tech stack 👨🏼‍💻ㅤㅤㅤㅤ ㅤ ㅤㅤ  ㅤㅤ  ㅤㅤ ㅤㅤ ㅤ ㅤㅤㅤ  GitHub Stats 📊
+## Tech stack 👨🏼‍💻ㅤㅤㅤㅤ ㅤ ㅤㅤ  ㅤㅤ  ㅤㅤ ㅤ ㅤ ㅤ ㅤㅤㅤ  GitHub Stats 📊
 <a href="https://github.com/litboidardi/litboidardi">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litboidardi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&border_color=21262d"/>
 </a>
