@@ -12,7 +12,7 @@
 - 💸 Full-stack freelance developer
 - 📑 Open to work
 - 🤖 Right now I'm learning the concepts of Machine Learning and their usage
-- 🌐 In the future my goal is to dove deep into the sea of cyber security
+- 🌐 In the future my goal is to dive deep into the sea of cyber security
 
 
 ## Tech stack 👨🏼‍💻ㅤㅤㅤ ㅤ ㅤ ㅤㅤ  ㅤㅤ  ㅤㅤ ㅤ ㅤ ㅤ ㅤㅤㅤ  GitHub Stats 📊
