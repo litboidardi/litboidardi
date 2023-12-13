@@ -14,7 +14,7 @@
 - 🤖 Right now I'm learning the concepts of Machine Learning and their usage
 
 
-## Tech stack 👨🏼‍💻ㅤㅤㅤㅤ ㅤㅤㅤ ㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤ ㅤㅤㅤㅤㅤㅤGitHub Stats 📊
+## Tech stack 👨🏼‍💻ㅤㅤㅤㅤ ㅤㅤㅤ ㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤ ㅤㅤㅤㅤGitHub Stats 📊
 <a href="https://github.com/litboidardi/litboidardi">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litboidardi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&border_color=21262d"/>
 </a>
