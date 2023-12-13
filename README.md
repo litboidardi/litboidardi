@@ -5,7 +5,7 @@
 <img align='right' src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" width="260">
 <p>My name is Dárius, student by the day, full-stack developer by the night</p>
 
-## About me <img height="30" alt="html" src="https://media.tenor.com/9y5iGiCiGRQAAAAi/pusheen-tea.gif">
+## About me <img height="28" alt="html" src="https://media.tenor.com/9y5iGiCiGRQAAAAi/pusheen-tea.gif">
 
 - 📚 Student at University of Constantine the Philosopher, Nitra
 - 💻 Field of study is Applied Informatics
@@ -14,7 +14,7 @@
 - 🤖 Right now I'm learning the concepts of Machine Learning and their usage
 
 
-## Tech stack 👨🏼‍💻ㅤㅤㅤㅤ ㅤㅤㅤ  ㅤㅤ ㅤ ㅤ ㅤㅤGitHub Stats 📊
+## Tech stack 👨🏼‍💻ㅤㅤㅤㅤ ㅤ ㅤㅤ  ㅤㅤ  ㅤㅤ ㅤㅤ ㅤ ㅤㅤㅤ ㅤㅤ ㅤㅤGitHub Stats 📊
 <a href="https://github.com/litboidardi/litboidardi">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litboidardi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&border_color=21262d"/>
 </a>
