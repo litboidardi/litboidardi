@@ -1,7 +1,7 @@
 ![java](https://github.com/litboidardi/litboidardi/assets/80161491/d66f2f4c-0529-4968-aa83-3898a17283cf)
 
 
-# Hello there! <img height="45" alt="html" src="https://camo.githubusercontent.com/f4b2d9e745688b72da832d4cb26a39c995c9f59d702bdeea9c838ab964051ab2/68747470733a2f2f692e696d6775722e636f6d2f453945484f356c2e676966">
+# Hello there! <img height="45" alt="html" src="https://cdn.pixabay.com/animation/2023/04/14/20/54/20-54-26-27_512.gif">
 <img align='right' src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" width="260">
 <p>My name is Dárius, student by the day, full-stack developer by the night</p>
 
