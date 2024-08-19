@@ -2,15 +2,14 @@
 
 
 # Hello there! <img height="45" alt="html" src="https://cdn.pixabay.com/animation/2023/04/14/20/54/20-54-26-27_512.gif">
-<img align='right' src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" width="260">
+
 <p>My name is Dárius, student by the day, full-stack developer by the night</p>
 
 ## About me <img height="28" alt="html" src="https://media.tenor.com/9y5iGiCiGRQAAAAi/pusheen-tea.gif">
-
+<img align='right' src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" width="220">
 - 📚 Student at University of Constantine the Philosopher, Nitra
 - 💻 Field of study is Applied Informatics
 - 💸 Full-stack freelance developer
-- 📑 Open to work
 - 🤖 Right now I'm learning the concepts of Machine Learning and their usage
 - 🌐 In the future my goal is to dive deep into the sea of cyber security
 
