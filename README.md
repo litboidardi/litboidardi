@@ -16,8 +16,8 @@
 
 
 ## Tech stack 👨🏼‍💻ㅤㅤㅤ ㅤ ㅤ ㅤㅤ  ㅤㅤ  ㅤㅤ ㅤ ㅤ ㅤGitHub Stats 📊
-<a href="https://github.com/litboidardi/litboidardi">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litboidardi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&border_color=21262d"/>
+<a href="https://github.com/litboidardi?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litboidardi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&border_color=21262d&exclude_repo=litboidardi,2d-unity-game"/>
 </a>
 
 
@@ -31,7 +31,7 @@
 
 **UX/UI**
 
-<img height="40" alt="photoshop" src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png">  <img height="40" alt="figma" src="https://pnghq.com/wp-content/uploads/figma-logo-png-free-unlimited-png-download-60875.png">
+<img height="40" alt="photoshop" src="https://cdn-icons-png.flaticon.com/512/5436/5436972.png">  <img height="40" alt="figma" src="https://pnghq.com/wp-content/uploads/figma-logo-png-free-unlimited-png-download-60875.png">
 
 **Data Analysis & Databases**
 
@@ -40,6 +40,6 @@
 
 ## Tools 🛠️
 
-<img height="40" alt="phpstorm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png">  <img height="40" alt="intellij" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png">  <img height="40" alt="pycharm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png">  <img height="40" alt="clion" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/2500px-Clion.svg.png">  <img height="40" alt="vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">  <img height="40" alt="visual studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png">  <img height="40" alt="git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png">  <img height="40" alt="gitea" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gitea_Logo.svg/2048px-Gitea_Logo.svg.png">  <img height="40" alt="postman" src="https://cdn.worldvectorlogo.com/logos/postman.svg">  <img height="40" alt="eclipse" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">  <img height="40" alt="jira" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">
+<img height="40" alt="phpstorm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png">  <img height="40" alt="intellij" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png">  <img height="40" alt="pycharm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png">  <img height="40" alt="clion" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/2500px-Clion.svg.png">  <img height="40" alt="vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">  <img height="40" alt="visual studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png">  <img height="40" alt="git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png">  <img height="40" alt="gitea" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gitea_Logo.svg/2048px-Gitea_Logo.svg.png">  <img height="40" alt="postman" src="https://cdn.worldvectorlogo.com/logos/postman.svg">  <img height="40" alt="eclipse" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">  <img height="40" alt="jira" src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png">
 
 
