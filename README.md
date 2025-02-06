@@ -35,7 +35,7 @@
 
 **Data Analysis & Databases**
 
-<img height="40" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png">  <img height="40" alt="jupyter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png">  <img height="40" alt="mysql" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"><img height="40" alt="mongodb" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170943.png">
+<img height="40" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png">  <img height="40" alt="jupyter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png">  <img height="40" alt="mysql" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"><img height="40" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg">
 
 
 ## Tools 🛠️
